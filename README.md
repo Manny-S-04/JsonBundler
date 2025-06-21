@@ -1,3 +1,5 @@
+You just need the json-bundler.js file to use the application
+
 # JSON Compiler
 
 # What it attempts to solve :
