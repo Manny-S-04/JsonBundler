@@ -1,6 +1,6 @@
 You just need the json-bundler.js file to use the application
 
-# JSON Compiler
+# JSON bundler
 
 # What it attempts to solve :
 - Aims to simplify huge json by allowing the ability to import json files into a main json object
