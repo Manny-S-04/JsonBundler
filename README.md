@@ -26,7 +26,7 @@ location.json:
 }
 ```
 
-will compile to
+will bundle to
 
 ```
 {
