@@ -38,11 +38,4 @@ will compile to
     }
 }
 ```
-1. custom parser parses the jsonc (starts an in memory main json)
-2. finds any '@import' and attempts to find the relative file path json file
-3. if fail then throw error
-4. else import json into memory and validate
-5. if invalid json then stop
-6. else add to in memory json
-7. do until EOF and finally validate main json
-8. write to new file output.json (subject to -o name)
+
